@@ -1,0 +1,11 @@
+public class Test1 {
+ 
+public static void main(String []args){
+ int x=100;
+  int y = 125;
+   int  z= 256;
+System.out.println("Hello world");
+System.out.println(x+y+z);
+
+}
+}
